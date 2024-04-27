@@ -51,3 +51,5 @@ etc. to make your calculations simpler.
 
 • Data on the costs to build the forecourt, expected charging costs and sales, and additional 
 income streams.
+
+![Traffic_Competitor_Data](https://github.com/AbinashDhakal/Optimising-the-EVolution/assets/85020169/c7fac73c-8767-43e7-914b-376f0b975347)
